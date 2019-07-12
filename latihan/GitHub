@@ -1,0 +1,6 @@
+git init					=> hanyabisa di pakai 1x
+git add README.md			=> core
+
+git commit -m "first commit (isikan komen)"	=> core
+git remote add origin git@github.com:imamnur13/web-VSGA.git
+git push -u origin master
